@@ -1,6 +1,3 @@
-# Mohammad-Zubair
-
-
 [![zaberazaber](https://res.cloudinary.com/zaberazaber/image/upload/v1616613030/zubair.jpg)][1]
 
 
@@ -58,21 +55,6 @@ You can see what I am currently up to on [zaberazaber][1].
 
 <br/>
 
-
-
-
-⭐️ From [Zubair](https://github.com/zaberazaber)
-
-
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/zaberazaber">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaberazaber&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/zaberazaber">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaberazaber&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
 
 [1]:
   https://zaberazaber.me/?utm_source=github.com&utm_medium=gh-profile-zaberazaber&utm_campaign=zaberazaber
