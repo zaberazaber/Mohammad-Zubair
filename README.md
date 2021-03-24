@@ -1,12 +1,31 @@
 # Mohammad-Zubair
 
 
-<h2> Hey there! I'm Mohammad Zubair.</h2>
+[![zaberazaber](https://res.cloudinary.com/zaberazaber/image/upload/v1616613030/zubair.jpg)][1]
+
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=zaberazaber&color=FAC151)][1]
+[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/zaberazaber)
+
+Hey 👋🏻,
+I am interested in, write about and develop (open source) software solutions
+for and with JavaScript, TypeScript, ReactJS and NodeJS.
+- 🎓 &nbsp; Software Engineer.
+- 💼 &nbsp; Working as a Developer.
+
+You can see what I am currently up to on [zaberazaber][1].
+
+## 📬 Get in touch
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zubair001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zubair001?style=flat-square&logo=linkedin"></a>
+<a href="mailto:m.work.zubair@gmail.com@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.work.zubair@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Software Engineer.
-- 💼 &nbsp; Working as a Developer.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -30,8 +49,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 
- 
-
 <br/>
 
 <a href="https://github.com/zaberazaber">
@@ -41,11 +58,25 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/zubair001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zubair001?style=flat-square&logo=linkedin"></a>
-<a href="mailto:m.work.zubair@gmail.com@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.work.zubair@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+
 
 ⭐️ From [Zubair](https://github.com/zaberazaber)
+
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/zaberazaber">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaberazaber&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/zaberazaber">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaberazaber&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
+
+[1]:
+  https://zaberazaber.me/?utm_source=github.com&utm_medium=gh-profile-zaberazaber&utm_campaign=zaberazaber
+[2]: https://www.linkedin.com/in/zubair001
+
+
+
